@@ -1,0 +1,3 @@
+sec_before_TTL,sec_after_TTL,sample_rate,zscore_win_len,zscore_filenames
+5,10,10.172526245117187,154,\\128.95.12.242\Lab_Common\Jordan\code\python\public_github_repo\photometry_analysis\data\output\session_FP_data\group\group_1130_1130-none-231201-171233_sess_dff_zscore.csv
+5,10,10.172526245117187,154,\\128.95.12.242\Lab_Common\Jordan\code\python\public_github_repo\photometry_analysis\data\output\session_FP_data\group\group_1198_1198-none-231203-163300_sess_dff_zscore.csv

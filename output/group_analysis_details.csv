@@ -1,0 +1,2 @@
+mov_win_size,zscore_method,samples_sec,trim_samples
+10,"smooth using a zero phase linear digital filter , downsample to ~10 Hz using a moving window mean, fit 405 signal to 470 signal using least-squares regression to calculate fitted control signal, calculate dff using ((470 signal - fitted control signal) / fitted control signal), fit and subtract an exponential to the dff signal to remove baseline drift not captured in the 405 fit, zscore this subracted signal using ((dff- mean(dff)) / std(dff))",101.72526245117187,6103
